@@ -11,3 +11,4 @@ Input:
  Output
     simple interest = p*t*r
 ```
+_KMKCODER 2024_
